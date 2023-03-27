@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+}
+.mainbox1{
+    border:solid 2px red;
+    height: 100px;
+    font-size: 0px;
+}
+.hrline1{
+    border: 2px solid black;
+    float: left;
+    height: 100%;
+    width: 33.33%;
+}
+.hrline2{
+    border: 2px solid black;
+    float: left;
+    height: 100%;
+    width: 33.33%;
+}
+.hrline3{
+    border: 2px solid black;
+    float: left;
+    height: 100%;
+    width: 33.33%;
+}
+.mainbox2{
+    border:solid 2px red;
+    height: 100px;
+    font-size: 0px;
+}
+.hrline4{
+    border: 3px solid black;
+    float: left;
+    height: 105%;
+    width: 50%;
+}
+.hrline5{
+    border: 3px solid black;
+    float: left;
+    height: 102%;
+    width: 50%;
+}
+.box1{
+    border: 2px solid blue;
+    height: 47px;
+    width: 100%;
+}
+.mainbox3{
+    border:solid 3px red;
+    height: 100px;
+    font-size: 0px;
+}
+.hrline6{
+    border: 2px solid black;
+    float: left;
+    height: 100%;
+    width: 31%;
+}
+.box2{
+    border: 2px solid blue;
+    height: 47px;
+    width: 100%;
+}
+.hrline7{
+    border: 2px solid black;
+    float: left;
+    height: 100%;
+    width: 18%;
+}
+.hrline8{
+    border: 2px solid black;
+    float: left;
+    height: 100%;
+    width: 18%;
+}
+.hrline9{
+    border: 2px solid black;
+    float: left;
+    height: 100%;
+    width: 33%;
+}
+.box3{
+    border: 2px solid blue;
+    height: 30px;
+    width: 100%;
+}
+.mainbox4{
+    border:solid 3px red;
+    height: 100px;
+    font-size: 0px;
+}
+.hrline10{
+    border: 2px solid black;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+.hrline11{
+    border: 2px solid black;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+.mainbox5{
+    border:solid 3px red;
+    height: 100px;
+    font-size: 0px;
+}
+.hrline12{
+    border: 2px solid black;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+.hrline13{
+    border: 2px solid black;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
