@@ -1,0 +1,114 @@
+.mainbox{
+    border: 3px solid red;
+    height: 500px;
+}
+.hrline1{
+    border: 2px solid red;
+    margin-top: 80px;
+}
+.hrline2{
+    border: 2px solid red;
+    margin-top: 130px;
+}
+.hrline3{
+    border: 2px solid red;
+    margin-top: 140px;
+}
+.hrline4{
+    border: 2px solid red;
+    margin-top: 70px;
+}
+.insidebox1{
+    border: 2px solid black;
+    height: 76px;
+    margin-top: -444px;
+}
+.votical1{
+    border-left: 3px solid rgb(10, 10, 14);
+    height: 76px;
+    margin-left: 400px;
+}
+.votical2{
+    border-left: 3px solid rgb(10, 10, 14);
+    height: 76px;
+    margin-left:900px;
+    margin-top: -76px;
+}
+.insidebox2{
+    border: 2px solid black;
+    height: 130px;
+    margin-top:2px;
+}
+.votical3{
+    border-left: 4px solid rgb(10, 10, 14);
+    height: 130px;
+    margin-left: 640px; 
+}
+.bx2h1{
+    border: 2px solid rgb(0,30,255);
+    height: 0px;
+    margin-top: -68px;
+    margin-right: 700px;
+}
+.insidebox3{
+    border: 2px solid black;
+    height: 135px;
+    margin-top: 2px;
+}
+.votical4{
+    border-left: 4px solid black;
+    height: 135px;
+    margin-left:420px;
+}
+.votical5{
+    border-left:4px solid black ;
+    height: 135px;
+    margin-left: 630px;
+    margin-top: -135px;
+}
+.votical6{
+    border-left: 4px solid rgb(6,6,6);
+    height: 140px;
+    margin-left: 850px;
+    margin-top: -138px;
+}
+.bx3h1{
+    border: 2px solid blue;
+    margin-right: 1050px;
+    margin-top: -50px;
+}
+.bx3h2{
+    border: 2px solid blue;
+    margin-left: 850px;
+    margin-top: -90px;
+}
+.bx3h3{
+    border: 2px solid blue;
+    margin-left: 854px;
+    margin-top: 30px;
+}
+.bx3h4{
+    border: 2px solid blue;
+    margin-right: 920px;
+    margin-top: -30px;
+}
+.insidebox4{
+    border: 1px solid black;
+    height: 75px;
+    margin-top: 1px;
+}
+.votical7{
+    border-left: 4px solid rgb(6,6,6);
+    height: 75px;
+    margin-left: 650px;
+}
+.insidebox5{
+    border: 2px solid black;
+    height: 59px;
+    margin-top: 2px;
+}
+.votical8{
+    border-left: 4px solid black;
+    height: 60px;
+    margin-left: 650px;
+}
