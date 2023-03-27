@@ -1,0 +1,100 @@
+.maincotainer{
+    width: 70vw;
+    height: 36.5vh;
+    border: 1px solid black ;
+    margin-left: 15%;
+}
+.box1{
+    width: 70vw;
+    height: 5vh;
+    border: 1px solid red;
+    margin-top: 1px;
+    display:grid;
+    grid-template-columns: auto auto auto;
+}
+.container1-1,.container1-2,.container1-3{
+    width: 23vw;
+    height: 5vh;
+    border: 1px solid black;
+}
+
+.box2{
+    width: 70vw;
+    height: 9vh;
+    border: 1px solid red ;
+    margin-top: 2px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.container2-1,.container2-2{
+    width: 34.9vw;
+    height: 9vh;
+    border: 1px solid black;
+}
+
+.line1{
+    margin-top: 40%;
+}
+
+.box3{
+    width: 70vw;
+    height: 9vh;
+    border: 1px solid red ;
+    margin-top: 2px;
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+
+}
+.container3-1,.container3-4{
+    width: 28.4vw;
+    height: 9vh;
+    border: 1px solid black;
+}
+.box2>.container2-1>.line1{
+    margin-top: 30px;   
+}
+.box3>.container3-1>.line2{
+    margin-top: 30px;   
+}
+.box3>.container3-4>.line3{
+    margin-top: 19px;   
+}
+.box3>.container3-4>.line4{
+    margin-top: 19px;   
+}
+
+.container3-2,.container3-3{
+    width: 6vw;
+    height: 9vh;
+    border: 1px solid black;
+}
+
+.box4{
+    width: 70vw;
+    height: 5vh;
+    border: 1px solid red ;
+    margin-top: 2px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.container4-1,.container4-2{
+    width: 34.9vw;
+    height: 5vh;
+    border: 1px solid black;
+}
+
+.box5{
+    width: 70vw;
+    height: 5vh;
+    border: 1px solid red ;
+    margin-top: 2px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.container5-1,.container5-2{
+    width: 34.9vw;
+    height: 5vh;
+    border: 1px solid black;
+}
